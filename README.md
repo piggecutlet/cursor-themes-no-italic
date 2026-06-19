@@ -1,16 +1,17 @@
-# cursor-dark-midnight README
+# Cursor Themes No Italic
 
-## Working with Markdown
+## Installation
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+### Windows (Command Prompt)
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+```
+cd "%LOCALAPPDATA%\Programs\cursor\resources\app\extensions"
+git clone https://github.com/piggecutlet/cursor-themes-no-italic.git themes-cursor-no-italic
+```
 
-## For more information
+### macOS (bash / zsh)
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
+```
+cd /Applications/Cursor.app/Contents/Resources/app/extensions
+git clone https://github.com/piggecutlet/cursor-themes-no-italic.git themes-cursor-no-italic
+```
