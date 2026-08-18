@@ -11,5 +11,7 @@ cd "%LOCALAPPDATA%\Programs\cursor\resources\app\extensions" && git clone https:
 ### macOS (bash / zsh)
 
 ```
+cd /Applications/Visual Studio Code.app/Contents/Resources/app/extensions && git clone https://github.com/piggecutlet/cursor-themes-no-italic.git themes-cursor-no-italic
+
 cd /Applications/Cursor.app/Contents/Resources/app/extensions && git clone https://github.com/piggecutlet/cursor-themes-no-italic.git themes-cursor-no-italic
 ```
