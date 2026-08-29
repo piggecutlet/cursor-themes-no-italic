@@ -8,6 +8,12 @@
 cd "%LOCALAPPDATA%\Programs\cursor\resources\app\extensions" && git clone https://github.com/piggecutlet/cursor-themes-no-italic.git themes-cursor-no-italic
 ```
 
+### PowerShell
+
+```pwsh
+cd "$env:LOCALAPPDATA\Programs\Microsoft VS Code\*\resources\app\extensions" && git clone https://github.com/piggecutlet/cursor-themes-no-italic.git themes-cursor-no-italic
+```
+
 ### macOS (bash / zsh)
 
 ```
